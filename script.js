@@ -24,16 +24,16 @@ $(document).ready(function(){
      });
      var typed = new Typed(".typing-2", {
         strings:[" tecnologia", "Música", " Games", ],
-        typeSpeed:100,
-        backSpeed:60,
+        typeSpeed:80,
+        backSpeed:100,
         loop:true
      });
     
     var typed = new Typed(".typing-3", {
         strings:[" TCC", ],
-        typeSpeed:100,
-        backSpeed:60,
-        loop:false
+        typeSpeed:80,
+        backSpeed:100,
+        loop:true
     });
     
     
